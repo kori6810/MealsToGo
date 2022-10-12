@@ -1,10 +1,10 @@
 {
   "expo": {
     "name": "MealsToGo",
-    "slug": "MealsToGo",
+    "slug": "Meals To Go",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/panda.webp",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
